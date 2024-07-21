@@ -387,6 +387,7 @@ footer .questions {
 footer .btn{
     display: flex;
     justify-content:start;
+    width: 120px;
     
 }
 
@@ -403,6 +404,13 @@ footer .btn{
     border-radius: 5px ;
     border: 0.5px solid white;
     color: white;
+}
+
+.madeby{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
 
 
